@@ -40,10 +40,10 @@ Public Subnet
 3. Internet Gateway
 Internet Gateway
 4. Route Table - Routes
-Route Table Routes
+Route Table
 5. Route Table - Subnet Associations
-Route Table Associations
-6. Security Group - Inbound Rules
+Subnet Associations
+6. Security Group - Inbound
 Inbound Rules
-7. Security Group - Outbound Rules
+7. Security Group - Outbound
 Outbound Rules
