@@ -30,3 +30,20 @@ Project Status
 Core network configuration completed. Further connectivity testing and validation are pending.
 Author
 Cybersecurity & Cloud Computing Engineering Student
+
+
+Project Screenshots
+1. VPC Overview
+VPC Overview
+2. Public Subnet
+Public Subnet
+3. Internet Gateway
+Internet Gateway
+4. Route Table - Routes
+Route Table Routes
+5. Route Table - Subnet Associations
+Route Table Associations
+6. Security Group - Inbound Rules
+Inbound Rules
+7. Security Group - Outbound Rules
+Outbound Rules
